@@ -1,0 +1,4 @@
+db.sqlite
+get-pip.py
+__pychache__/
+venv/
